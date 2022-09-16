@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace StackAndQueue
 {
-    internal class LinkedListStack
+    class LinkedListStack
     {
         private Node top;
         public LinkedListStack()
